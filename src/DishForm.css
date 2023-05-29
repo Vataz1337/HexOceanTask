@@ -1,0 +1,18 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form {
+    width: 20%;
+}
+
+.error {
+    color: red;
+}
+
+.form-control {
+    margin: 1vh
+}
